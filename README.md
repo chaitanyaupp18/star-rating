@@ -1,2 +1,2 @@
 # star-rating
-Review Reacts
+Review React
